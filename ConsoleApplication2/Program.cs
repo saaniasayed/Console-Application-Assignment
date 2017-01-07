@@ -13,12 +13,10 @@ namespace ConsoleApplication2
             /* Write a C# program that prompts the user to input three integer values 
             and find the greatest value of the three values. */
 
-            int num1 = 0, num2 = 0, num3 = 0;
-
             Console.WriteLine("Please Enter Any 3 Numbers");
-            num1 = Convert.ToInt32(Console.ReadLine());
-            num2 = Convert.ToInt32(Console.ReadLine());
-            num3 = Convert.ToInt32(Console.ReadLine());
+            int num1 = Convert.ToInt32(Console.ReadLine());
+            int num2 = Convert.ToInt32(Console.ReadLine());
+            int num3 = Convert.ToInt32(Console.ReadLine());
 
             if((num1>num2)&&(num1>num3))
             {

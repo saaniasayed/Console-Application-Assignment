@@ -3,3 +3,4 @@ D:\ConsoleApplicationAssignment\ConsoleApplication5\bin\Debug\ConsoleApplication
 D:\ConsoleApplicationAssignment\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
 D:\ConsoleApplicationAssignment\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
 D:\ConsoleApplicationAssignment\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+D:\ConsoleApplicationAssignment\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache

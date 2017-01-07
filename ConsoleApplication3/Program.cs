@@ -17,18 +17,16 @@ namespace ConsoleApplication3
             - if the average score >= 50% and <70% : then display grade-C
             - if the average score < 50% : then display grade-F */
 
-            float quizScore, midTermScore, FinalScore, averageScore;
-
             Console.WriteLine("Please Enter Your Quiz Score: ");
-            quizScore = float.Parse(Console.ReadLine());
+            float quizScore = float.Parse(Console.ReadLine());
 
             Console.WriteLine("Please Enter Your Mid Term Score: ");
-            midTermScore = float.Parse(Console.ReadLine());
+            float midTermScore = float.Parse(Console.ReadLine());
 
             Console.WriteLine("Please Enter Your Final Score: ");
-            FinalScore = float.Parse(Console.ReadLine());
+            float FinalScore = float.Parse(Console.ReadLine());
 
-            averageScore = (quizScore + midTermScore + FinalScore) / 3;
+            float averageScore = (quizScore + midTermScore + FinalScore) / 3;
 
             if (averageScore >= 90)
             {

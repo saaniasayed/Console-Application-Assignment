@@ -16,18 +16,23 @@ namespace ConsoleApplication8
             Console.WriteLine("Please Enter A Number: ");
             int num = int.Parse(Console.ReadLine());
 
-            int ordinal = num % 10;
-
-            switch (ordinal)
+            if (num >= 11 && num <= 13)
             {
-                case 1: Console.WriteLine("That's the " + num + "st number");
-                    break;
-                case 2: Console.WriteLine("That's the " + num + "nd number");
-                    break;
-                case 3: Console.WriteLine("That's the " + num + "rd number");
-                    break;
-                default: Console.WriteLine("That's the " + num + "th number");
-                    break;
+                Console.WriteLine("That's the " + num + "th number");
+            }
+            else
+            {
+                switch (num % 10)
+                {
+                    case 1: Console.WriteLine("That's the " + num + "st number");
+                        break;
+                    case 2: Console.WriteLine("That's the " + num + "nd number");
+                        break;
+                    case 3: Console.WriteLine("That's the " + num + "rd number");
+                        break;
+                    default: Console.WriteLine("That's the " + num + "th number");
+                        break;
+                }
             }
         }
     }

@@ -25,10 +25,8 @@ namespace ConsoleApplication4
             The value of a is 10.
              */
 
-            int a;
-
             Console.WriteLine("Please Enter A Value: ");
-            a = int.Parse(Console.ReadLine());
+            int a = int.Parse(Console.ReadLine());
 
             Console.WriteLine("The value of a is " + a);
             Console.WriteLine("................................");
