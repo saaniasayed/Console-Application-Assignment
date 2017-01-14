@@ -24,21 +24,21 @@ namespace ConsoleApplication12
              */
 
             int[] num = new int[1000];
-            int sum = 0, intValue = 0;
-            string inValue = "";
+            int sum = 0, value = 0;
+            string str = "";
 
             Console.WriteLine("Enter Several Number and to Stop Type 'end'");
 
             Console.WriteLine("Enter a number: ");
-            inValue = Console.ReadLine();
+            str = Console.ReadLine();
 
-            while (inValue != "end")
+            while (str != "end")
             {
-                intValue = int.Parse(inValue);
-                sum += intValue;
+                value = int.Parse(str);
+                sum += value;
                 Console.WriteLine("Sum: {0}", sum);
                 Console.WriteLine("Enter a number: ");
-                inValue = Console.ReadLine();
+                str = Console.ReadLine();
             }
             Console.WriteLine("The sum is: {0}", sum);
         }
