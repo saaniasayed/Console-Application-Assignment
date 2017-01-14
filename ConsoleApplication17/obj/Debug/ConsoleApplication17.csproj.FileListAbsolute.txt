@@ -1,0 +1,5 @@
+D:\ConsoleApplicationAssignment\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe.config
+D:\ConsoleApplicationAssignment\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe
+D:\ConsoleApplicationAssignment\ConsoleApplication17\bin\Debug\ConsoleApplication17.pdb
+D:\ConsoleApplicationAssignment\ConsoleApplication17\obj\Debug\ConsoleApplication17.exe
+D:\ConsoleApplicationAssignment\ConsoleApplication17\obj\Debug\ConsoleApplication17.pdb

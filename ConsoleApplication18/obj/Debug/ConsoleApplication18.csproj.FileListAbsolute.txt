@@ -1,0 +1,5 @@
+D:\ConsoleApplicationAssignment\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe.config
+D:\ConsoleApplicationAssignment\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe
+D:\ConsoleApplicationAssignment\ConsoleApplication18\bin\Debug\ConsoleApplication18.pdb
+D:\ConsoleApplicationAssignment\ConsoleApplication18\obj\Debug\ConsoleApplication18.exe
+D:\ConsoleApplicationAssignment\ConsoleApplication18\obj\Debug\ConsoleApplication18.pdb
